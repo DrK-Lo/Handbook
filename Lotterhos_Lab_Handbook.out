@@ -1,0 +1,73 @@
+\BOOKMARK [1][-]{section.1}{Preface}{}% 1
+\BOOKMARK [1][-]{section.2}{Introduction to the Lab}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Lab Rules}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Lab Expectations}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{What You Should Be Keeping Track of In the Lab And Your Lab Notebook}{}% 5
+\BOOKMARK [1][-]{section.4}{Lab Calendar}{}% 6
+\BOOKMARK [1][-]{section.5}{Lab Online Accounts}{}% 7
+\BOOKMARK [1][-]{section.6}{Lab Manager \(RA\) Responsibilities}{}% 8
+\BOOKMARK [1][-]{section.7}{Prevent PCR Product Contamination}{}% 9
+\BOOKMARK [2][-]{subsection.7.1}{ Physically Separate Pre-PCR and Post-PCR Areas}{section.7}% 10
+\BOOKMARK [2][-]{subsection.7.2}{Use Dedicated Equipment and Supplies }{section.7}% 11
+\BOOKMARK [1][-]{section.8}{Health and Safety Information}{}% 12
+\BOOKMARK [1][-]{section.9}{Resources for the Molecular Biologist}{}% 13
+\BOOKMARK [1][-]{section.10}{Lab Equipment Information/Tips}{}% 14
+\BOOKMARK [2][-]{subsection.10.1}{pH Meter Operation Tips}{section.10}% 15
+\BOOKMARK [1][-]{section.11}{Reagents}{}% 16
+\BOOKMARK [2][-]{subsection.11.1}{Reagent Preparation Tips}{section.11}% 17
+\BOOKMARK [2][-]{subsection.11.2}{Aliquots}{section.11}% 18
+\BOOKMARK [2][-]{subsection.11.3}{Reagent Recipes and Ordering Information}{section.11}% 19
+\BOOKMARK [1][-]{section.12}{How do I perform a DNA precipitation to concentrate my sample?}{}% 20
+\BOOKMARK [1][-]{section.13}{DNA and RNA Isolation}{}% 21
+\BOOKMARK [2][-]{subsection.13.1}{ Flow Chart - does this make sense to everyone - need to update}{section.13}% 22
+\BOOKMARK [2][-]{subsection.13.2}{Collection of samples for DNA Extraction}{section.13}% 23
+\BOOKMARK [2][-]{subsection.13.3}{Tissue Prep for DNA Extraction}{section.13}% 24
+\BOOKMARK [2][-]{subsection.13.4}{DNA Isolation Review}{section.13}% 25
+\BOOKMARK [2][-]{subsection.13.5}{CTAB DNA Extraction}{section.13}% 26
+\BOOKMARK [2][-]{subsection.13.6}{Cleaning your Sample before DNA extraction- Optional}{section.13}% 27
+\BOOKMARK [2][-]{subsection.13.7}{DNA Extraction for Animal Tissues}{section.13}% 28
+\BOOKMARK [2][-]{subsection.13.8}{DNA Extraction with QIAamp DNA Micro Kit}{section.13}% 29
+\BOOKMARK [2][-]{subsection.13.9}{RNA Isolation Review}{section.13}% 30
+\BOOKMARK [2][-]{subsection.13.10}{Creating a RNase-FREE Environment}{section.13}% 31
+\BOOKMARK [2][-]{subsection.13.11}{Qiagen RNA extraction}{section.13}% 32
+\BOOKMARK [2][-]{subsection.13.12}{DNA-Free RNA Kit}{section.13}% 33
+\BOOKMARK [1][-]{section.14}{ddRAD-seq}{}% 34
+\BOOKMARK [2][-]{subsection.14.1}{DNA Extraction}{section.14}% 35
+\BOOKMARK [2][-]{subsection.14.2}{Overview of ddRAD Protocol}{section.14}% 36
+\BOOKMARK [2][-]{subsection.14.3}{Overview of methylRAD Protocol}{section.14}% 37
+\BOOKMARK [2][-]{subsection.14.4}{Before you start: testing restriction enzymes with your DNA}{section.14}% 38
+\BOOKMARK [2][-]{subsection.14.5}{Before you start: order oligos and anneal adapters}{section.14}% 39
+\BOOKMARK [2][-]{subsection.14.6}{Preparing working stocks of Oligos for ddRAD-seq \(Annealing and Hybridization of Adapters\) }{section.14}% 40
+\BOOKMARK [3][-]{subsubsection.14.6.1}{Peterson protocol}{subsection.14.6}% 41
+\BOOKMARK [3][-]{subsubsection.14.6.2}{Schweyen protocol for P2/P7/"right" adapters with degenerate sequence}{subsection.14.6}% 42
+\BOOKMARK [2][-]{subsection.14.7}{Before you start: choose barcodes and indexes}{section.14}% 43
+\BOOKMARK [3][-]{subsubsection.14.7.1}{Note on low plexity pooling}{subsection.14.7}% 44
+\BOOKMARK [3][-]{subsubsection.14.7.2}{Example of ddRAD experimental barcoding setup}{subsection.14.7}% 45
+\BOOKMARK [3][-]{subsubsection.14.7.3}{Example of methylRAD experimental barcoding setup}{subsection.14.7}% 46
+\BOOKMARK [2][-]{subsection.14.8}{Reagents and Equipment}{section.14}% 47
+\BOOKMARK [2][-]{subsection.14.9}{Things to do before starting}{section.14}% 48
+\BOOKMARK [2][-]{subsection.14.10}{Protocol}{section.14}% 49
+\BOOKMARK [3][-]{subsubsection.14.10.1}{1. Restriction Double Digest \( overnight\)}{subsection.14.10}% 50
+\BOOKMARK [3][-]{subsubsection.14.10.2}{Digest Quantification}{subsection.14.10}% 51
+\BOOKMARK [3][-]{subsubsection.14.10.3}{Adaptor Ligation \(2-3 hours\) - proceed directly to pooling after}{subsection.14.10}% 52
+\BOOKMARK [2][-]{subsection.14.11}{Pooling and Beadwash}{section.14}% 53
+\BOOKMARK [2][-]{subsection.14.12}{ Size selection \( 2 hours\)}{section.14}% 54
+\BOOKMARK [3][-]{subsubsection.14.12.1}{ Targeted Index PCR Amplification \(8 hours including checking on gel and final beadwash\)}{subsection.14.12}% 55
+\BOOKMARK [3][-]{subsubsection.14.12.2}{Final beadwash and pooling of PCR products}{subsection.14.12}% 56
+\BOOKMARK [3][-]{subsubsection.14.12.3}{Check libraries on Bioanalyzer}{subsection.14.12}% 57
+\BOOKMARK [3][-]{subsubsection.14.12.4}{Quantify adapters with Kapa Kit}{subsection.14.12}% 58
+\BOOKMARK [1][-]{section.15}{RNA Library Prep}{}% 59
+\BOOKMARK [2][-]{subsection.15.1}{Introduction}{section.15}% 60
+\BOOKMARK [2][-]{subsection.15.2}{Consumable Supplies}{section.15}% 61
+\BOOKMARK [2][-]{subsection.15.3}{Equipment}{section.15}% 62
+\BOOKMARK [2][-]{subsection.15.4}{Things to do before}{section.15}% 63
+\BOOKMARK [2][-]{subsection.15.5}{Symbols}{section.15}% 64
+\BOOKMARK [2][-]{subsection.15.6}{Protocol}{section.15}% 65
+\BOOKMARK [1][-]{section.16}{Appendix}{}% 66
+\BOOKMARK [2][-]{subsection.16.1}{Quality assessment of DNA and RNA with gel electrophoresis}{section.16}% 67
+\BOOKMARK [2][-]{subsection.16.2}{Gel extraction with QIAquick Gel Extraction Kit using Microcentrifuge}{section.16}% 68
+\BOOKMARK [2][-]{subsection.16.3}{Quality and quantity assessment of DNA and RNA with Nanodrop}{section.16}% 69
+\BOOKMARK [2][-]{subsection.16.4}{Quality and quantity assessment of DNA and RNA with Qubit}{section.16}% 70
+\BOOKMARK [2][-]{subsection.16.5}{Homemade Magnetic Beads \(SpeedBeads\)}{section.16}% 71
+\BOOKMARK [2][-]{subsection.16.6}{DNA Bead Wash with pre-made Speed Beads}{section.16}% 72
+\BOOKMARK [2][-]{subsection.16.7}{Resuspend Primer Stocks }{section.16}% 73
